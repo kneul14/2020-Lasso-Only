@@ -1,0 +1,698 @@
+fileFormatVersion: 2
+guid: 0e69fd7b00b47ec40b5d88b1e87f4bc5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2913418362898121613
+    second: Cowboy lasso attack (1)_0
+  - first:
+      213: 5141138097188100048
+    second: Cowboy lasso attack (1)_1
+  - first:
+      213: -6668227292448151737
+    second: Cowboy lasso attack (1)_2
+  - first:
+      213: 1051964166715568886
+    second: Cowboy lasso attack (1)_3
+  - first:
+      213: -2058189188972695780
+    second: Cowboy lasso attack (1)_4
+  - first:
+      213: 5939827619268283180
+    second: Cowboy lasso attack (1)_5
+  - first:
+      213: 8931750730286082193
+    second: Cowboy lasso attack (1)_6
+  - first:
+      213: 8598514467825482770
+    second: Cowboy lasso attack (1)_7
+  - first:
+      213: -2176359711039131439
+    second: Cowboy lasso attack (1)_8
+  - first:
+      213: 1833981113102046915
+    second: Cowboy lasso attack (1)_9
+  - first:
+      213: 1210298799476783706
+    second: Cowboy lasso attack (1)_10
+  - first:
+      213: -4754275270136271058
+    second: Cowboy lasso attack (1)_11
+  - first:
+      213: -2517542419774696284
+    second: Cowboy lasso attack (1)_12
+  - first:
+      213: -6742467282766151494
+    second: Cowboy lasso attack (1)_13
+  - first:
+      213: 273235249399354718
+    second: Cowboy lasso attack (1)_14
+  - first:
+      213: 8456995877626490665
+    second: Cowboy lasso attack (1)_15
+  - first:
+      213: 7369371882193418223
+    second: Cowboy lasso attack (1)_16
+  - first:
+      213: -3139852249573474917
+    second: Cowboy lasso attack (1)_17
+  - first:
+      213: -8200395936441863528
+    second: Cowboy lasso attack (1)_18
+  - first:
+      213: -1628917762021778839
+    second: Cowboy lasso attack (1)_19
+  - first:
+      213: 5834251596784868005
+    second: Cowboy lasso attack (1)_20
+  - first:
+      213: -1650163928814126462
+    second: Cowboy lasso attack (1)_21
+  - first:
+      213: -4285845787853253186
+    second: Cowboy lasso attack (1)_0
+  - first:
+      213: -1189042890490318847
+    second: Cowboy lasso attack (1)_1
+  - first:
+      213: 1257706588952951731
+    second: Cowboy lasso attack (1)_2
+  - first:
+      213: -1575481410080554949
+    second: Cowboy lasso attack (1)_3
+  - first:
+      213: -3016650365497229432
+    second: Cowboy lasso attack (1)_4
+  - first:
+      213: -7254630194525137949
+    second: Cowboy lasso attack (1)_5
+  - first:
+      213: 8648218541102462192
+    second: Cowboy lasso attack (1)_6
+  - first:
+      213: -3749473266326200616
+    second: Cowboy lasso attack (1)_7
+  - first:
+      213: 8713883722963389873
+    second: Cowboy lasso attack (1)_8
+  - first:
+      213: 8296388223088660768
+    second: Cowboy lasso attack (1)_9
+  - first:
+      213: 2407258082042848497
+    second: Cowboy lasso attack (1)_10
+  - first:
+      213: 8482005059454204994
+    second: Cowboy lasso attack (1)_11
+  - first:
+      213: -1808785268671469596
+    second: Cowboy lasso attack (1)_12
+  - first:
+      213: -9217302950329626877
+    second: Cowboy lasso attack (1)_13
+  - first:
+      213: 2545100643591456719
+    second: Cowboy lasso attack (1)_14
+  - first:
+      213: 6586534576982924311
+    second: Cowboy lasso attack (1)_15
+  - first:
+      213: -242692606119600044
+    second: Cowboy lasso attack (1)_16
+  - first:
+      213: 750957764994186496
+    second: Cowboy lasso attack (1)_17
+  - first:
+      213: -6949171864739508730
+    second: Cowboy lasso attack (1)_18
+  - first:
+      213: 357756161184865262
+    second: Cowboy lasso attack (1)_19
+  - first:
+      213: -6860941051943657759
+    second: Cowboy lasso attack (1)_20
+  - first:
+      213: 3148793817895421647
+    second: Cowboy lasso attack (1)_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cowboy lasso attack (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 12
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb517ec96fd9584c0800000000000000
+      internalID: -4285845787853253186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy lasso attack (1)_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 372
+        width: 20
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100fe997acbaf7fe0800000000000000
+      internalID: -1189042890490318847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy lasso attack (1)_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 372
+        width: 12
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb7532aa75447110800000000000000
+      internalID: 1257706588952951731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy lasso attack (1)_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 372
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30cae93104c22ae0800000000000000
+      internalID: -1575481410080554949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy lasso attack (1)_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 372
+        width: 12
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f3cf8b974b226d0800000000000000
+      internalID: -3016650365497229432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy lasso attack (1)_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 324
+        width: 40
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e391865640625b90800000000000000
+      internalID: -7254630194525137949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy lasso attack (1)_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 324
+        width: 40
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4fb5261f4a40870800000000000000
+      internalID: 8648218541102462192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy lasso attack (1)_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 324
+        width: 56
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de9dc90ee137fbc0800000000000000
+      internalID: -3749473266326200616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy lasso attack (1)_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 324
+        width: 60
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd8a41f31fede870800000000000000
+      internalID: 8713883722963389873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy lasso attack (1)_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 64
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0211febf121b22370800000000000000
+      internalID: 8296388223088660768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy lasso attack (1)_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 216
+        width: 68
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f42adea87c486120800000000000000
+      internalID: 2407258082042848497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy lasso attack (1)_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 216
+        width: 72
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c75d779a226b570800000000000000
+      internalID: 8482005059454204994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy lasso attack (1)_12
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 216
+        width: 76
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7a0e9a167e5e6e0800000000000000
+      internalID: -1808785268671469596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy lasso attack (1)_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 216
+        width: 80
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f41725dcf851080800000000000000
+      internalID: -9217302950329626877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy lasso attack (1)_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 76
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc703e20d83025320800000000000000
+      internalID: 2545100643591456719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy lasso attack (1)_15
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 108
+        width: 72
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c15e10d42186b50800000000000000
+      internalID: 6586534576982924311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy lasso attack (1)_16
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 108
+        width: 68
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450a0ae4c58c1acf0800000000000000
+      internalID: -242692606119600044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy lasso attack (1)_17
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 108
+        width: 64
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00dbcc7cb10fb6a00800000000000000
+      internalID: 750957764994186496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy lasso attack (1)_18
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 108
+        width: 60
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e001fd1059f8f90800000000000000
+      internalID: -6949171864739508730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy lasso attack (1)_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 56
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb91a7455107f400800000000000000
+      internalID: 357756161184865262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy lasso attack (1)_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 40
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eed00ec67a09c0a0800000000000000
+      internalID: -6860941051943657759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy lasso attack (1)_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 40
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc64a9a5b43c2bb20800000000000000
+      internalID: 3148793817895421647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

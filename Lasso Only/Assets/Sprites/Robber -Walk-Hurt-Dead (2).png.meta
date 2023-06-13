@@ -1,0 +1,1049 @@
+fileFormatVersion: 2
+guid: f47b0f9b5dd04b44391614e9002b8ccf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4212093128676383266
+    second: Robber -Walk-Hurt-Dead (2)_0
+  - first:
+      213: 3032895714493723055
+    second: Robber -Walk-Hurt-Dead (2)_1
+  - first:
+      213: 5107862560695162407
+    second: Robber -Walk-Hurt-Dead (2)_2
+  - first:
+      213: 2579775630857356559
+    second: Robber -Walk-Hurt-Dead (2)_3
+  - first:
+      213: 6581273750923735530
+    second: Robber -Walk-Hurt-Dead (2)_4
+  - first:
+      213: -4143299641362783182
+    second: Robber -Walk-Hurt-Dead (2)_5
+  - first:
+      213: 5966463536070804592
+    second: Robber -Walk-Hurt-Dead (2)_6
+  - first:
+      213: -2525825313707075098
+    second: Robber -Walk-Hurt-Dead (2)_7
+  - first:
+      213: 7421304164152217277
+    second: Robber -Walk-Hurt-Dead (2)_8
+  - first:
+      213: -7784262642827442504
+    second: Robber -Walk-Hurt-Dead (2)_9
+  - first:
+      213: -1519815917684890151
+    second: Robber -Walk-Hurt-Dead (2)_10
+  - first:
+      213: 1065362359866166405
+    second: Robber -Walk-Hurt-Dead (2)_11
+  - first:
+      213: 7837293483927474600
+    second: Robber -Walk-Hurt-Dead (2)_12
+  - first:
+      213: -407339057484657556
+    second: Robber -Walk-Hurt-Dead (2)_13
+  - first:
+      213: -3776473007024543437
+    second: Robber -Walk-Hurt-Dead (2)_14
+  - first:
+      213: -6759882370292559773
+    second: Robber -Walk-Hurt-Dead (2)_15
+  - first:
+      213: -7369210073413740241
+    second: Robber -Walk-Hurt-Dead (2)_16
+  - first:
+      213: -2903387954246774119
+    second: Robber -Walk-Hurt-Dead (2)_17
+  - first:
+      213: -3116968268576526858
+    second: Robber -Walk-Hurt-Dead (2)_18
+  - first:
+      213: 467996360368761761
+    second: Robber -Walk-Hurt-Dead (2)_19
+  - first:
+      213: -7114660038653990751
+    second: Robber -Walk-Hurt-Dead (2)_20
+  - first:
+      213: 2020442705492951698
+    second: Robber -Walk-Hurt-Dead (2)_21
+  - first:
+      213: 1207936413491026406
+    second: Robber -Walk-Hurt-Dead (2)_22
+  - first:
+      213: 7499299353683155020
+    second: Robber -Walk-Hurt-Dead (2)_23
+  - first:
+      213: -8214827509534897188
+    second: Robber -Walk-Hurt-Dead (2)_24
+  - first:
+      213: -175009373747955911
+    second: Robber -Walk-Hurt-Dead (2)_25
+  - first:
+      213: 589640474611751913
+    second: Robber -Walk-Hurt-Dead (2)_26
+  - first:
+      213: 3236368222688186080
+    second: Robber -Walk-Hurt-Dead (2)_27
+  - first:
+      213: -7346478018357290550
+    second: Robber -Walk-Hurt-Dead (2)_28
+  - first:
+      213: -5695068104985032513
+    second: Robber -Walk-Hurt-Dead (2)_29
+  - first:
+      213: -3836815721342718123
+    second: Robber -Walk-Hurt-Dead (2)_30
+  - first:
+      213: -4243067526104717453
+    second: Robber -Walk-Hurt-Dead (2)_31
+  - first:
+      213: 2183284613006365781
+    second: Robber -Walk-Hurt-Dead (2)_32
+  - first:
+      213: -591769727880480195
+    second: Robber -Walk-Hurt-Dead (2)_33
+  - first:
+      213: -6498368115712898843
+    second: Robber -Walk-Hurt-Dead (2)_34
+  - first:
+      213: -7020829828313775800
+    second: Robber -Walk-Hurt-Dead (2)_0
+  - first:
+      213: 6001116726668060592
+    second: Robber -Walk-Hurt-Dead (2)_1
+  - first:
+      213: -4411499189936344183
+    second: Robber -Walk-Hurt-Dead (2)_2
+  - first:
+      213: -7800969549903258234
+    second: Robber -Walk-Hurt-Dead (2)_3
+  - first:
+      213: -8993743624544658597
+    second: Robber -Walk-Hurt-Dead (2)_4
+  - first:
+      213: 3921188395756152065
+    second: Robber -Walk-Hurt-Dead (2)_5
+  - first:
+      213: -6006063757966819618
+    second: Robber -Walk-Hurt-Dead (2)_6
+  - first:
+      213: -6578354111222905183
+    second: Robber -Walk-Hurt-Dead (2)_7
+  - first:
+      213: -7675670042515169917
+    second: Robber -Walk-Hurt-Dead (2)_8
+  - first:
+      213: -9156764871049424968
+    second: Robber -Walk-Hurt-Dead (2)_9
+  - first:
+      213: -7129629819368839101
+    second: Robber -Walk-Hurt-Dead (2)_10
+  - first:
+      213: 5470077871001280156
+    second: Robber -Walk-Hurt-Dead (2)_11
+  - first:
+      213: -7350894714957624943
+    second: Robber -Walk-Hurt-Dead (2)_12
+  - first:
+      213: 2376296215117674462
+    second: Robber -Walk-Hurt-Dead (2)_13
+  - first:
+      213: 8169496416808713516
+    second: Robber -Walk-Hurt-Dead (2)_14
+  - first:
+      213: 6499090980744661879
+    second: Robber -Walk-Hurt-Dead (2)_15
+  - first:
+      213: -4620864644613474526
+    second: Robber -Walk-Hurt-Dead (2)_16
+  - first:
+      213: 4100064760742084614
+    second: Robber -Walk-Hurt-Dead (2)_17
+  - first:
+      213: 2557842666830401845
+    second: Robber -Walk-Hurt-Dead (2)_18
+  - first:
+      213: -830189492479605189
+    second: Robber -Walk-Hurt-Dead (2)_19
+  - first:
+      213: 7551453279472415415
+    second: Robber -Walk-Hurt-Dead (2)_20
+  - first:
+      213: 719806577811133623
+    second: Robber -Walk-Hurt-Dead (2)_21
+  - first:
+      213: 9129147982995978839
+    second: Robber -Walk-Hurt-Dead (2)_22
+  - first:
+      213: 3894429195057214560
+    second: Robber -Walk-Hurt-Dead (2)_23
+  - first:
+      213: 7087489862402688120
+    second: Robber -Walk-Hurt-Dead (2)_24
+  - first:
+      213: -4379692543104960979
+    second: Robber -Walk-Hurt-Dead (2)_25
+  - first:
+      213: -3651359933161013597
+    second: Robber -Walk-Hurt-Dead (2)_26
+  - first:
+      213: 2088018548678114403
+    second: Robber -Walk-Hurt-Dead (2)_27
+  - first:
+      213: 2536776013089510061
+    second: Robber -Walk-Hurt-Dead (2)_28
+  - first:
+      213: 3186780783341308796
+    second: Robber -Walk-Hurt-Dead (2)_29
+  - first:
+      213: -8530170593376838003
+    second: Robber -Walk-Hurt-Dead (2)_30
+  - first:
+      213: 893710313661514782
+    second: Robber -Walk-Hurt-Dead (2)_31
+  - first:
+      213: 2759188708906320698
+    second: Robber -Walk-Hurt-Dead (2)_32
+  - first:
+      213: 5726719850116247578
+    second: Robber -Walk-Hurt-Dead (2)_33
+  - first:
+      213: -2882363647056679
+    second: Robber -Walk-Hurt-Dead (2)_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1036
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84104e61870019e90800000000000000
+      internalID: -7020829828313775800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1036
+        width: 12
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b764bc1edf384350800000000000000
+      internalID: 6001116726668060592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1036
+        width: 12
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983bbe02cd437c2c0800000000000000
+      internalID: -4411499189936344183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1036
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d906296836db390800000000000000
+      internalID: -7800969549903258234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 992
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bd41a03ddcf2380800000000000000
+      internalID: -8993743624544658597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_5
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 992
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105ed62121cda6630800000000000000
+      internalID: 3921188395756152065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_6
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 992
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede3a0865dc26aca0800000000000000
+      internalID: -6006063757966819618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_7
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 992
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a604d91acdf4b4a0800000000000000
+      internalID: -6578354111222905183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_8
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 992
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d96c683ca8a7590800000000000000
+      internalID: -7675670042515169917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 760
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfc2594dd2ace080800000000000000
+      internalID: -9156764871049424968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_10
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 760
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348ec7424777e0d90800000000000000
+      internalID: -7129629819368839101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_11
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 760
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e91ca87de99eb40800000000000000
+      internalID: 5470077871001280156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_12
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 760
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19987a514306cf990800000000000000
+      internalID: -7350894714957624943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_13
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 760
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7b13741dc4af020800000000000000
+      internalID: 2376296215117674462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_14
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 760
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2db5bd05b1ef5170800000000000000
+      internalID: 8169496416808713516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_15
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 528
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b0b3630d8613a50800000000000000
+      internalID: 6499090980744661879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_16
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 528
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227f6ae86146fdfb0800000000000000
+      internalID: -4620864644613474526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_17
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 572
+        width: 12
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60001244d2b56e830800000000000000
+      internalID: 4100064760742084614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_18
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 572
+        width: 12
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53193cb7a584f7320800000000000000
+      internalID: 2557842666830401845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_19
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 572
+        width: 12
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36cd7c1e039a74f0800000000000000
+      internalID: -830189492479605189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_20
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 572
+        width: 12
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b279e49fb62cc860800000000000000
+      internalID: 7551453279472415415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_21
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 528
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b41c61d4444df900800000000000000
+      internalID: 719806577811133623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_22
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 528
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75af274e8bf31be70800000000000000
+      internalID: 9129147982995978839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_23
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 528
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064bb4628bacb0630800000000000000
+      internalID: 3894429195057214560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 296
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874c1bd8a72db5260800000000000000
+      internalID: 7087489862402688120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_25
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 296
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d263dce26d43833c0800000000000000
+      internalID: -4379692543104960979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_26
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 296
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aef7dc8c73c35dc0800000000000000
+      internalID: -3651359933161013597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_27
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 336
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cb266aec12afc10800000000000000
+      internalID: 2088018548678114403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_28
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 336
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da29eeee750743320800000000000000
+      internalID: 2536776013089510061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_29
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 336
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b8918fc38b93c20800000000000000
+      internalID: 3186780783341308796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_30
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 336
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e5a444a0fbe9980800000000000000
+      internalID: -8530170593376838003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_31
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 296
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14c5e19bc8176c00800000000000000
+      internalID: 893710313661514782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_32
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 328
+        width: 104
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3341ae038b9a4620800000000000000
+      internalID: 2759188708906320698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_33
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 96
+        width: 104
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a107b5abc55697f40800000000000000
+      internalID: 5726719850116247578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robber -Walk-Hurt-Dead (2)_34
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 96
+        width: 104
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d424ba6182c5fff0800000000000000
+      internalID: -2882363647056679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

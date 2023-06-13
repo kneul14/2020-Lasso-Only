@@ -1,0 +1,644 @@
+fileFormatVersion: 2
+guid: 8e607a677b93a6744a89d6bbd26156e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8320869400539914498
+    second: Cowboy -jump-crouch-_0
+  - first:
+      213: 8379180844502740899
+    second: Cowboy -jump-crouch-_1
+  - first:
+      213: 6893850851137167794
+    second: Cowboy -jump-crouch-_2
+  - first:
+      213: -3857457404222018652
+    second: Cowboy -jump-crouch-_3
+  - first:
+      213: -8675516923697963876
+    second: Cowboy -jump-crouch-_4
+  - first:
+      213: 8979709712161018809
+    second: Cowboy -jump-crouch-_5
+  - first:
+      213: -3621834471332862550
+    second: Cowboy -jump-crouch-_6
+  - first:
+      213: -2705628003228838886
+    second: Cowboy -jump-crouch-_7
+  - first:
+      213: 3965808172343902479
+    second: Cowboy -jump-crouch-_8
+  - first:
+      213: 8140430811325015922
+    second: Cowboy -jump-crouch-_9
+  - first:
+      213: 5555037393000146067
+    second: Cowboy -jump-crouch-_10
+  - first:
+      213: -3969175203659157347
+    second: Cowboy -jump-crouch-_11
+  - first:
+      213: 1370039734541808468
+    second: Cowboy -jump-crouch-_12
+  - first:
+      213: -8759018599544690866
+    second: Cowboy -jump-crouch-_13
+  - first:
+      213: 7946108484564472799
+    second: Cowboy -jump-crouch-_14
+  - first:
+      213: 2246029774795713967
+    second: Cowboy -jump-crouch-_15
+  - first:
+      213: -7176993914024654224
+    second: Cowboy -jump-crouch-_16
+  - first:
+      213: 1265530037390697265
+    second: Cowboy -jump-crouch-_17
+  - first:
+      213: 7069446003489206868
+    second: Cowboy -jump-crouch-_18
+  - first:
+      213: 2079954034808758900
+    second: Cowboy -jump-crouch-_19
+  - first:
+      213: -1887033290800973645
+    second: Cowboy -jump-crouch-_0
+  - first:
+      213: -4121804891731817997
+    second: Cowboy -jump-crouch-_1
+  - first:
+      213: 8848400199206267800
+    second: Cowboy -jump-crouch-_2
+  - first:
+      213: -9073713637208973752
+    second: Cowboy -jump-crouch-_3
+  - first:
+      213: 7823556534295763861
+    second: Cowboy -jump-crouch-_4
+  - first:
+      213: -6091473026625386856
+    second: Cowboy -jump-crouch-_5
+  - first:
+      213: -2842921540022935811
+    second: Cowboy -jump-crouch-_6
+  - first:
+      213: -1263378207663965320
+    second: Cowboy -jump-crouch-_7
+  - first:
+      213: -2732363370128645889
+    second: Cowboy -jump-crouch-_8
+  - first:
+      213: 2742138331016751097
+    second: Cowboy -jump-crouch-_9
+  - first:
+      213: -4006577682927854290
+    second: Cowboy -jump-crouch-_10
+  - first:
+      213: -7468705084838022099
+    second: Cowboy -jump-crouch-_11
+  - first:
+      213: -8431229902911801154
+    second: Cowboy -jump-crouch-_12
+  - first:
+      213: -2346102086454714530
+    second: Cowboy -jump-crouch-_13
+  - first:
+      213: -4719449495304417575
+    second: Cowboy -jump-crouch-_14
+  - first:
+      213: 8585195211930536339
+    second: Cowboy -jump-crouch-_15
+  - first:
+      213: 6943167281321726455
+    second: Cowboy -jump-crouch-_16
+  - first:
+      213: 3389179166916246299
+    second: Cowboy -jump-crouch-_17
+  - first:
+      213: -7853999809419647768
+    second: Cowboy -jump-crouch-_18
+  - first:
+      213: 3583122532862336694
+    second: Cowboy -jump-crouch-_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cowboy -jump-crouch-_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8b87e4839efc5e0800000000000000
+      internalID: -1887033290800973645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -jump-crouch-_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 256
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f98bda0a486cc6c0800000000000000
+      internalID: -4121804891731817997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -jump-crouch-_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 256
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b6f20b915dbca70800000000000000
+      internalID: 8848400199206267800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -jump-crouch-_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 256
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e9a848581b31280800000000000000
+      internalID: -9073713637208973752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -jump-crouch-_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 216
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b92ea873bd29c60800000000000000
+      internalID: 7823556534295763861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -jump-crouch-_5
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 224
+        width: 44
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896ce196e8db67ba0800000000000000
+      internalID: -6091473026625386856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -jump-crouch-_6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 228
+        width: 44
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe50aafbe9eb88d0800000000000000
+      internalID: -2842921540022935811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -jump-crouch-_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 112
+        width: 44
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b383bb634977ee0800000000000000
+      internalID: -1263378207663965320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -jump-crouch-_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 108
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff06136ddf1b41ad0800000000000000
+      internalID: -2732363370128645889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -jump-crouch-_9
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 152
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f76c3998480e0620800000000000000
+      internalID: 2742138331016751097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -jump-crouch-_10
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 152
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dd31c33d6c568c0800000000000000
+      internalID: -4006577682927854290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -jump-crouch-_11
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 152
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d247316db44d95890800000000000000
+      internalID: -7468705084838022099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -jump-crouch-_12
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 152
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb87a49e2114efa80800000000000000
+      internalID: -8431229902911801154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -jump-crouch-_13
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 152
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f50122598f07fd0800000000000000
+      internalID: -2346102086454714530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -jump-crouch-_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 152
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9decbf050b5218eb0800000000000000
+      internalID: -4719449495304417575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -jump-crouch-_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 108
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39901861f8db42770800000000000000
+      internalID: 8585195211930536339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -jump-crouch-_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 44
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1db4b1bd51b5060800000000000000
+      internalID: 6943167281321726455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -jump-crouch-_17
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 44
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b7234ee78c80f20800000000000000
+      internalID: 3389179166916246299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -jump-crouch-_18
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 44
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e46e8d19ccf00390800000000000000
+      internalID: -7853999809419647768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -jump-crouch-_19
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be15fd95fec9b130800000000000000
+      internalID: 3583122532862336694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

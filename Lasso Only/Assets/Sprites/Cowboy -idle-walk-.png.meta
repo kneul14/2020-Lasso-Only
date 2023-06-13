@@ -1,0 +1,1520 @@
+fileFormatVersion: 2
+guid: 762c71ef815c4fb458e7aea77b4083e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2653616848818157096
+    second: Cowboy -idle-walk-_0
+  - first:
+      213: -8614553950207684450
+    second: Cowboy -idle-walk-_1
+  - first:
+      213: 388374491578533512
+    second: Cowboy -idle-walk-_2
+  - first:
+      213: 6268777820276542834
+    second: Cowboy -idle-walk-_3
+  - first:
+      213: 4468555172279908894
+    second: Cowboy -idle-walk-_4
+  - first:
+      213: 2788007701966079675
+    second: Cowboy -idle-walk-_5
+  - first:
+      213: 9162260883426465326
+    second: Cowboy -idle-walk-_6
+  - first:
+      213: 6189071235559878191
+    second: Cowboy -idle-walk-_7
+  - first:
+      213: -7380097510909041276
+    second: Cowboy -idle-walk-_8
+  - first:
+      213: -1991676863760803808
+    second: Cowboy -idle-walk-_9
+  - first:
+      213: 4257524373047733743
+    second: Cowboy -idle-walk-_10
+  - first:
+      213: 8141639915263355757
+    second: Cowboy -idle-walk-_11
+  - first:
+      213: 5366397960495100072
+    second: Cowboy -idle-walk-_12
+  - first:
+      213: -1652558733654603028
+    second: Cowboy -idle-walk-_13
+  - first:
+      213: -7036388166669995773
+    second: Cowboy -idle-walk-_14
+  - first:
+      213: -1348839068835804092
+    second: Cowboy -idle-walk-_15
+  - first:
+      213: 4709534540949973152
+    second: Cowboy -idle-walk-_16
+  - first:
+      213: -532200242415703096
+    second: Cowboy -idle-walk-_17
+  - first:
+      213: 8927662277598166091
+    second: Cowboy -idle-walk-_18
+  - first:
+      213: -2984475734538315888
+    second: Cowboy -idle-walk-_19
+  - first:
+      213: -2445807364545027064
+    second: Cowboy -idle-walk-_20
+  - first:
+      213: -9194839613065679924
+    second: Cowboy -idle-walk-_21
+  - first:
+      213: 7216154293735145975
+    second: Cowboy -idle-walk-_22
+  - first:
+      213: -1360452986112895018
+    second: Cowboy -idle-walk-_23
+  - first:
+      213: 5621828071905532006
+    second: Cowboy -idle-walk-_24
+  - first:
+      213: 4636133616537723958
+    second: Cowboy -idle-walk-_25
+  - first:
+      213: 5747120848959576106
+    second: Cowboy -idle-walk-_26
+  - first:
+      213: -8211120137832737721
+    second: Cowboy -idle-walk-_27
+  - first:
+      213: 1218195361967817815
+    second: Cowboy -idle-walk-_28
+  - first:
+      213: 4603180876566880014
+    second: Cowboy -idle-walk-_29
+  - first:
+      213: 434576929525168164
+    second: Cowboy -idle-walk-_30
+  - first:
+      213: 4621580215296325413
+    second: Cowboy -idle-walk-_31
+  - first:
+      213: 7044231263867350288
+    second: Cowboy -idle-walk-_32
+  - first:
+      213: 7009698461294750712
+    second: Cowboy -idle-walk-_33
+  - first:
+      213: -1155654153452205612
+    second: Cowboy -idle-walk-_34
+  - first:
+      213: -9077026428645912740
+    second: Cowboy -idle-walk-_35
+  - first:
+      213: -473287416647369632
+    second: Cowboy -idle-walk-_36
+  - first:
+      213: 5262421856157443414
+    second: Cowboy -idle-walk-_37
+  - first:
+      213: 7496131706295894298
+    second: Cowboy -idle-walk-_38
+  - first:
+      213: 9125967261104873514
+    second: Cowboy -idle-walk-_39
+  - first:
+      213: 3824585878619277272
+    second: Cowboy -idle-walk-_40
+  - first:
+      213: 2898736749885525773
+    second: Cowboy -idle-walk-_41
+  - first:
+      213: 6991295364889710698
+    second: Cowboy -idle-walk-_42
+  - first:
+      213: -7020309087347110041
+    second: Cowboy -idle-walk-_43
+  - first:
+      213: -5162139630226435770
+    second: Cowboy -idle-walk-_44
+  - first:
+      213: 634588878771000809
+    second: Cowboy -idle-walk-_45
+  - first:
+      213: 847763308906511366
+    second: Cowboy -idle-walk-_46
+  - first:
+      213: 973893690744649589
+    second: Cowboy -idle-walk-_47
+  - first:
+      213: -6287646168017545025
+    second: Cowboy -idle-walk-_48
+  - first:
+      213: -126467623662293165
+    second: Cowboy -idle-walk-_49
+  - first:
+      213: -7688784632732091818
+    second: Cowboy -idle-walk-_50
+  - first:
+      213: -1218134163298652131
+    second: Cowboy -idle-walk-_51
+  - first:
+      213: 7120594977031399921
+    second: Cowboy -idle-walk-_52
+  - first:
+      213: 6433824961221114533
+    second: Cowboy -idle-walk-_53
+  - first:
+      213: -6975361284013093165
+    second: Cowboy -idle-walk-_54
+  - first:
+      213: -4871275783478764801
+    second: Cowboy -idle-walk-_55
+  - first:
+      213: 4169074147701515775
+    second: Cowboy -idle-walk-_56
+  - first:
+      213: -6278367173822526065
+    second: Cowboy -idle-walk-_57
+  - first:
+      213: 3753853540870416241
+    second: Cowboy -idle-walk-_58
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 688
+        width: 4
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9c33419857c2bd0800000000000000
+      internalID: -2653616848818157096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 688
+        width: 20
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90de6bf2d4f27880800000000000000
+      internalID: -8614553950207684450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 688
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8868c5ada88c36500800000000000000
+      internalID: 388374491578533512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 688
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d4e61d63c2ff650800000000000000
+      internalID: 6268777820276542834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 648
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a7af6f04f730e30800000000000000
+      internalID: 4468555172279908894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_5
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 648
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6cdb2cb3ef0b620800000000000000
+      internalID: 2788007701966079675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 648
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e265710dab3e62f70800000000000000
+      internalID: 9162260883426465326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_7
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 648
+        width: 44
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e62256f7ff3e550800000000000000
+      internalID: 6189071235559878191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_8
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 648
+        width: 44
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485a58e4a60a49990800000000000000
+      internalID: -7380097510909041276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_9
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 648
+        width: 44
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0285c2cd1742c54e0800000000000000
+      internalID: -1991676863760803808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_10
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 648
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fede3162cd3c51b30800000000000000
+      internalID: 4257524373047733743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_11
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 540
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6be96edd5aecf070800000000000000
+      internalID: 8141639915263355757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 540
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0f0be3386497a40800000000000000
+      internalID: 5366397960495100072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_13
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 540
+        width: 44
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea4c0e569ee019e0800000000000000
+      internalID: -1652558733654603028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_14
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 540
+        width: 44
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3017fd72e3ab95e90800000000000000
+      internalID: -7036388166669995773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_15
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 540
+        width: 44
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c8fda6306f74de0800000000000000
+      internalID: -1348839068835804092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_16
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 540
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a861ca76b0ab5140800000000000000
+      internalID: 4709534540949973152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_17
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 540
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb6f6103be3d98f0800000000000000
+      internalID: -532200242415703096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_18
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 540
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cb4ea6a8d65eb70800000000000000
+      internalID: 8927662277598166091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_19
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 432
+        width: 44
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0971212c1230596d0800000000000000
+      internalID: -2984475734538315888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_20
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 432
+        width: 44
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804624f092fbe0ed0800000000000000
+      internalID: -2445807364545027064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_21
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 432
+        width: 44
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccba788961e556080800000000000000
+      internalID: -9194839613065679924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 432
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f14e7ae81ee42460800000000000000
+      internalID: 7216154293735145975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_23
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 432
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d71f159733be1de0800000000000000
+      internalID: -1360452986112895018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_24
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 432
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6689f3e78deb40e40800000000000000
+      internalID: 5621828071905532006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_25
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 432
+        width: 44
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6346af006fad65040800000000000000
+      internalID: 4636133616537723958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_26
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 432
+        width: 44
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a281a7b66ffd1cf40800000000000000
+      internalID: 5747120848959576106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 324
+        width: 44
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7445c603dbd3c0e80800000000000000
+      internalID: -8211120137832737721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 364
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754ce193a36e7e010800000000000000
+      internalID: 1218195361967817815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_29
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 364
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fd3a85e98c1ef30800000000000000
+      internalID: 4603180876566880014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_30
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 364
+        width: 12
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4287de73a6de70600800000000000000
+      internalID: 434576929525168164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_31
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 364
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527f5b938b6232040800000000000000
+      internalID: 4621580215296325413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_32
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 324
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01da386330322c160800000000000000
+      internalID: 7044231263867350288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_33
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 324
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb63109c93774160800000000000000
+      internalID: 7009698461294750712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_34
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 324
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9c64c9baa46ffe0800000000000000
+      internalID: -1155654153452205612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_35
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 324
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f4ab72e8ce70280800000000000000
+      internalID: -9077026428645912740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_36
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 324
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c32162a9b8e69f0800000000000000
+      internalID: -473287416647369632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_37
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 324
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6552482fbc0e70940800000000000000
+      internalID: 5262421856157443414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_38
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 216
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a114f47121c970860800000000000000
+      internalID: 7496131706295894298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_39
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 216
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20200e5fd2f5ae70800000000000000
+      internalID: 9125967261104873514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_40
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 216
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7c314d798a31530800000000000000
+      internalID: 3824585878619277272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_41
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 216
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f0c4247b16a3820800000000000000
+      internalID: 2898736749885525773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_42
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 216
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a601618c712160160800000000000000
+      internalID: 6991295364889710698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_43
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 216
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f8a3b841ad29e90800000000000000
+      internalID: -7020309087347110041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_44
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 216
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64113634b556c58b0800000000000000
+      internalID: -5162139630226435770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_45
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 216
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e51f8919338ec800800000000000000
+      internalID: 634588878771000809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_46
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 108
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c7bf0ec3cd3cb00800000000000000
+      internalID: 847763308906511366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_47
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 108
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57734ddd627f38d00800000000000000
+      internalID: 973893690744649589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_48
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 108
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8d7f1af1bcdb8a0800000000000000
+      internalID: -6287646168017545025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_49
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 108
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f6508cd52be3ef0800000000000000
+      internalID: -126467623662293165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_50
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 108
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a758b0d13fb4590800000000000000
+      internalID: -7688784632732091818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_51
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 108
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10f0d3be61581fe0800000000000000
+      internalID: -1218134163298652131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_52
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 108
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f92363b76f61d260800000000000000
+      internalID: 7120594977031399921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_53
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 108
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa30a0e6b9894950800000000000000
+      internalID: 6433824961221114533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_54
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de03668ed9823f90800000000000000
+      internalID: -6975361284013093165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_55
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa19caeb70c56cb0800000000000000
+      internalID: -4871275783478764801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_56
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5630049d68bd930800000000000000
+      internalID: 4169074147701515775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_57
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dc5d2d152ced8a0800000000000000
+      internalID: -6278367173822526065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy -idle-walk-_58
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 0
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1776c6a18ed581430800000000000000
+      internalID: 3753853540870416241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

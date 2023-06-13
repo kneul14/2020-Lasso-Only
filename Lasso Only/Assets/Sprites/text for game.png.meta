@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: 1802799565277ef419ffd9b1e76a2a10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3390770818166166098
+    second: text for game_0
+  - first:
+      213: -3452580225612862137
+    second: text for game_1
+  - first:
+      213: -1613805106343292429
+    second: text for game_2
+  - first:
+      213: 643909012523329654
+    second: text for game_3
+  - first:
+      213: -2810228505601516871
+    second: text for game_4
+  - first:
+      213: -9115778063071834981
+    second: text for game_5
+  - first:
+      213: -2944573716186842284
+    second: text for game_6
+  - first:
+      213: -6303163628999174471
+    second: text for game_7
+  - first:
+      213: -2976141731572864274
+    second: text for game_8
+  - first:
+      213: -5744207767683274427
+    second: text for game_9
+  - first:
+      213: -6688305070052796331
+    second: text for game_10
+  - first:
+      213: 607218696661585732
+    second: text for game_11
+  - first:
+      213: 1278543369971358301
+    second: text for game_12
+  - first:
+      213: -1991915351652085416
+    second: text for game_13
+  - first:
+      213: 3962982514770793346
+    second: text for game_14
+  - first:
+      213: -8153027240893791150
+    second: text for game_15
+  - first:
+      213: -4365578708432919219
+    second: text for game_16
+  - first:
+      213: 5079351573916098995
+    second: text for game_17
+  - first:
+      213: 5452092491866658906
+    second: text for game_18
+  - first:
+      213: -6244223158109701522
+    second: text for game_19
+  - first:
+      213: -7217913183994292290
+    second: text for game_20
+  - first:
+      213: -5251843845190281404
+    second: text for game_21
+  - first:
+      213: -7789120176850381523
+    second: text for game_22
+  - first:
+      213: -6439540349495690024
+    second: text for game_23
+  - first:
+      213: -2532672973748969458
+    second: text for game_24
+  - first:
+      213: -4460005676221091380
+    second: text for game_25
+  - first:
+      213: 2175123210388555436
+    second: text for game_26
+  - first:
+      213: -7295999740616079817
+    second: text for game_27
+  - first:
+      213: -6539916983946127541
+    second: text for game_28
+  - first:
+      213: 789297727828994041
+    second: text for game_29
+  - first:
+      213: 7617507037929715738
+    second: text for game_30
+  - first:
+      213: -2618991187289446283
+    second: text for game_31
+  - first:
+      213: 8359750209885136398
+    second: text for game_32
+  - first:
+      213: 4892241847886580105
+    second: text for game_33
+  - first:
+      213: 1484235233611303176
+    second: text for game_34
+  - first:
+      213: 4330031365708647910
+    second: text for game_35
+  - first:
+      213: 374234568338659322
+    second: text for game_36
+  - first:
+      213: -2127156481468449814
+    second: text for game_37
+  - first:
+      213: 5663477924145650274
+    second: text for game_38
+  - first:
+      213: -3191922544611512856
+    second: text for game_39
+  - first:
+      213: 959748470029761614
+    second: text for game_40
+  - first:
+      213: -7529272049411470125
+    second: text for game_41
+  - first:
+      213: -5791162317992000283
+    second: text for game_42
+  - first:
+      213: -8534871263516554535
+    second: text for game_43
+  - first:
+      213: -4779374353889734147
+    second: text for game_44
+  - first:
+      213: 6236730898878846992
+    second: text for game_45
+  - first:
+      213: -8227445429458633264
+    second: text for game_46
+  - first:
+      213: 3342917620584810948
+    second: text for game_47
+  - first:
+      213: -2537671593495798217
+    second: text for game_48
+  - first:
+      213: -4801535723580484400
+    second: text for game_49
+  - first:
+      213: 5538126519340335271
+    second: text for game_50
+  - first:
+      213: 6477621851555247438
+    second: text for game_51
+  - first:
+      213: 5069927480320549109
+    second: text for game_52
+  - first:
+      213: 915464207650299240
+    second: text for game_53
+  - first:
+      213: 1110370907056844430
+    second: text for game_54
+  - first:
+      213: 6893995921952217344
+    second: text for game_55
+  - first:
+      213: -2078205600380675483
+    second: text for game_56
+  - first:
+      213: -2717190543073502719
+    second: text for game_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: text for game_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 81
+        width: 967
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eade17ce7ef81f0d0800000000000000
+      internalID: -3390770818166166098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text for game_48
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 109
+        width: 811
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e5511812168ccd0800000000000000
+      internalID: -2537671593495798217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
